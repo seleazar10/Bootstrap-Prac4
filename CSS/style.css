@@ -1,0 +1,60 @@
+/*--------------sticky footer-----*/
+
+  
+body,
+html{
+    height: 100%;
+    margin-top: 70px;
+    margin-bottom: 190px;
+}
+
+
+  .top{
+      
+    background-image:linear-gradient(rgba(0, 0, 0, 0.719), rgba(0, 0, 0, 0.747)), url("http://wallfocus.com/WFresize.php?src=/uploads/2UNDWkY0b.jpeg&w=1536&h=864&f=jpeg&q=95&fltr=wmt|www.wallfocus.com|1|BR|FFFFFF||40&aoe=1&sia=soccer-kick%20[Wallfocus]%22%20target=%22_blank");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-transform: capitalize;
+  padding-top: 190px;
+
+  }
+
+  .firsec{
+      text-align: center;
+      text-transform: capitalize;
+      font-family: 'Swanky and Moo Moo', cursive;
+      font-weight: 500;
+     
+  }
+
+  .text{
+      margin-top: 10px;
+      letter-spacing: 2px;
+      font-size: 20px;
+  }
+
+;
+  .bottom{
+      margin-top: 20px;
+  }
+
+  .rowpic{
+      width: 350px;
+  }
+
+  .milo{
+      padding-top: 40px;
+  }
+
+  .marg{
+    margin-bottom: 70px;
+}
+ 
+  .footer{
+      text-align: center;
+  }
+
+ 
