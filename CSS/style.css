@@ -1,4 +1,3 @@
-/*--------------sticky footer-----*/
 
   
 body,
@@ -18,7 +17,7 @@ html{
     background-size: cover;
     position: relative;
     text-transform: capitalize;
-  padding-top: 190px;
+    padding-top: 190px;
 
   }
 
@@ -51,10 +50,12 @@ html{
 
   .marg{
     margin-bottom: 70px;
+    
 }
  
   .footer{
       text-align: center;
+      
   }
 
  
